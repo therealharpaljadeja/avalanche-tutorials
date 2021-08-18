@@ -7,7 +7,7 @@
 ## Contents
 - [Adding the Avalanche FUJI C-chain to Metamask.](#adding-the-avalanche-fuji-c-chain-to-metamask)
 - [Funding the Metamask using Faucet (FUJI C-chain Testnet only)](#funding-the-metamask-using-faucet-fuji-c-chain-testnet-only)
-- [Writing code in Remix IDE](#-writing-code-in-remix-ide)
+- [Writing code in Remix IDE](#writing-code-in-remix-ide)
 - [Compiling and Deploying to Avalanche FUJI C-chain Testnet.](#-compiling-and-deploying-to-avalanche-fuji-c-chain-testnet)
 - [Adding token to Metamask.](#adding-token-to-metamask)
 
