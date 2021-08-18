@@ -5,14 +5,14 @@
 ### The steps to deploy on the mainnet are identical and the differences are mentioned in the tutorial.
 
 ## Contents
-- [Adding the Avalanche FUJI C-chain to Metamask.](#adding-config)
-- [Funding the Metamask using Faucet (FUJI C-chain Testnet only)](#funding-metamask)
-- [Writing code in Remix IDE](#writing-code)
-- [Compiling and Deploying to Avalanche FUJI C-chain Testnet.](#compiling-and-deploying)
-- [Adding token to Metamask.](#adding-token)
+- [Adding the Avalanche FUJI C-chain to Metamask.](#adding-the-avalanche-fuji-c-chain-to-metamask)
+- [Funding the Metamask using Faucet (FUJI C-chain Testnet only)](#funding-the-metamask-using-faucet-fuji-c-chain-testnet-only)
+- [Writing code in Remix IDE](#-writing-code-in-remix-ide)
+- [Compiling and Deploying to Avalanche FUJI C-chain Testnet.](#-compiling-and-deploying-to-avalanche-fuji-c-chain-testnet)
+- [Adding token to Metamask.](#adding-token-to-metamask)
 
 
-### <a href="adding-config"></a><u>Adding the Avalanche FUJI C-chain to Metamask</u>
+### <u>Adding the Avalanche FUJI C-chain to Metamask</u>
 
 1. [Click here to download Metamask](https://metamask.io/) (If not installed). 
 
@@ -47,7 +47,7 @@
 
 10. The steps to add the network in case of mainnet are identical except the configuration.
 
-### <a href="funding-metamask"></a><u>Funding the Metamask using Faucet (FUJI C-chain Testnet only)</u>
+### <u>Funding the Metamask using Faucet (FUJI C-chain Testnet only)</u>
 
 1. Let's ask the faucet for some AVAX so that we can deploy contracts. [Faucet Link](https://faucet.avax-test.network/)
 
@@ -69,7 +69,7 @@
 6. Hooray! 🎉 we now have funds that we can use to deploy smart contracts.
 
 
-### <u><a href="writing-code"></a> Writing code in Remix IDE</u>
+### <u>Writing code in Remix IDE</u>
 
 1. Let's now write the code for the ERC20 token.
 
@@ -125,7 +125,7 @@
 
 21. That's the code to deploy the token using Openzeppelin.
 
-###  <u><a href="#compiling-and-deploying"></a> Compiling and Deploying to Avalanche FUJI C-chain Testnet</u>
+###  <u> Compiling and Deploying to Avalanche FUJI C-chain Testnet</u>
 
 1. Let's now compile the code to check if there are any errors.
 
@@ -185,7 +185,7 @@
 
 16. The token is deployed! 
 
-### <a href="#adding-token"></a><u>Adding token to Metamask.</u>
+### <u>Adding token to Metamask.</u>
 
 1. Let's now add the token to our metamask and see its balance.
 
