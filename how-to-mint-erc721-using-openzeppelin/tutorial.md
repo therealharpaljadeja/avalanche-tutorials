@@ -47,13 +47,13 @@
 16. In the pinata dashboard you should see an upload button. 
 ![pinata-upload-button](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/pinata-upload-button.png)
 
-17. We are supposed to upload the entire folder the reason for that is we get the same baseURI and tokenID type URL if we upload the folder more about it below.
+17. We are supposed to upload the entire folder the reason for that is we get the same baseURI and tokenID type URL if we upload the folder more about it below. <br>
 ![pinata-select-folder](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/pinata-select-folder.png)
 
-18. Upload the folder by clicking the "Click to upload" button we don't want a custom name for the pin and we need not preserve the directory name so we can ignore those options for now.
+18. Upload the folder by clicking the "Click to upload" button we don't want a custom name for the pin and we need not preserve the directory name so we can ignore those options for now.<br>
 ![pinata-upload-folder-button](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/pinata-upload-folder-button.png)
 
-19. You can see the files that are about to upload since I have only one you can see it in the image below. Click the "Upload" button to start uploading.
+19. You can see the files that are about to upload since I have only one you can see it in the image below. Click the "Upload" button to start uploading.<br>
 ![pinata-folder-upload-button](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/pinata-folder-upload-button.png)
 
 20. Once done you should see the folder in the files section as shown in the image below.
@@ -116,11 +116,10 @@ https://gateway.pinata.cloud/ipfs/QmaHGo7pQ9x7B1rNvPbkzTnrZNuHA4mx53t8ZnAA8JFUG2
 3. This is how the Remix IDE interface looks like and we can see our project files on the left.
 ![remix-ide-interface](https://github.com/therealharpaljadeja/avalanche-tutorials/blob/master/how-to-mint-erc20-using-openzeppelin/assets/remix-ide-interface.png?raw=true)
 
-4. Let's create a file under the "contracts" folder for our token.
+4. Let's create a file under the "contracts" folder for our token.<br>
 ![create-file-remix](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc20-using-openzeppelin/assets/create-file-remix.png)
 
-5. For this tutorial I named it "MyNFT.sol" make sure to have the .sol extension. As a good practice, you can name the file with the same name as the token.
-<br>
+5. For this tutorial I named it "MyNFT.sol" make sure to have the .sol extension. As a good practice, you can name the file with the same name as the token.<br>
 ![remix-file-created](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/remix-file-created.png)
 
 6. I have attached the code for the NFT in the same repository. 
@@ -151,7 +150,7 @@ https://gateway.pinata.cloud/ipfs/QmaHGo7pQ9x7B1rNvPbkzTnrZNuHA4mx53t8ZnAA8JFUG2
 
 4. Once compiled we can now deploy the contract to the Avalanche FUJI C-Chain testnet. *The steps to deploy on the mainnet are the same.*
 
-5. Click the deploy button as shown in the image below.
+5. Click the deploy button as shown in the image below.<br>
 ![remix-deploy-button](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/remix-deploy-button.png)
 
 6. In the deploy section make sure you have "Injected web3" selected in the dropdown.
@@ -166,7 +165,7 @@ https://gateway.pinata.cloud/ipfs/QmaHGo7pQ9x7B1rNvPbkzTnrZNuHA4mx53t8ZnAA8JFUG2
 10. You should get a "Confirm Transaction" prompt, hit the "Confirm" button.
 ![confirm-transaction-dialog](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/confirm-transaction-dialog.png)
 
-11. You should get a metamask pop-up asking to confirm the transaction.
+11. You should get a metamask pop-up asking to confirm the transaction.<br>
 ![metamask-popup](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/metamask-popup.png)
 
 12. Make sure you are on the correct network and hit the "Confirm" button.
