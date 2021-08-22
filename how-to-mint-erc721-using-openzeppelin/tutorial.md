@@ -120,6 +120,7 @@ https://gateway.pinata.cloud/ipfs/QmaHGo7pQ9x7B1rNvPbkzTnrZNuHA4mx53t8ZnAA8JFUG2
 ![create-file-remix](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc20-using-openzeppelin/assets/create-file-remix.png)
 
 5. For this tutorial I named it "MyNFT.sol" make sure to have the .sol extension. As a good practice, you can name the file with the same name as the token.
+<br>
 ![remix-file-created](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/remix-file-created.png)
 
 6. I have attached the code for the NFT in the same repository. 
@@ -181,11 +182,13 @@ https://gateway.pinata.cloud/ipfs/QmaHGo7pQ9x7B1rNvPbkzTnrZNuHA4mx53t8ZnAA8JFUG2
 16. To own an NFT we need to mint it.
 
 17. Expand the contract and see for the "mint" button.
+<br>
 ![contract-mint-button](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/contract-mint-button.png)
 
 18. You won't be able to mint unless to pay 0.01 AVAX in order to mint. 
 
 19. For that, you will need to specify the amount to pay. Remix IDE doesn't let you specify decimals so we need to specify it in finney which is a lower unit than ether. 1 ether = 1000 finney. We need 0.01 ether so 10 finney.
+<br>
 ![enter-amount](https://raw.githubusercontent.com/therealharpaljadeja/avalanche-tutorials/master/how-to-mint-erc721-using-openzeppelin/assets/enter-amount.png)
 
 20. Now try clicking the "mint" button.
